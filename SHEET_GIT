@@ -1,2 +1,0 @@
-# Clean your local branch list
-`git remote prune origin`
